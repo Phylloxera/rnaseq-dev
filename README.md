@@ -1,4 +1,6 @@
 # rsc-dev
+RNASeq Compare  
+An RNASeq pipeline where the user can select from two different trimmers and two different mappers 
 ## dependencies
   * [apptainer](https://apptainer.org)
 ## download

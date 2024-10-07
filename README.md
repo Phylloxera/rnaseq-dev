@@ -4,6 +4,6 @@ An RNASeq pipeline where the user can select from two different trimmers and two
 ## dependencies
   * [apptainer](https://apptainer.org)
 ## download
-  *     curl -L -O https://github.com/Phylloxera/rsc-dev/releases/download/rsccont/rsccont.zip
+  *     curl -L -O https://github.com/Phylloxera/rsc-dev/releases/download/v0.0.1/rsccont.zip
   *     unzip rsccont.zip
   *     nano readme.txt
